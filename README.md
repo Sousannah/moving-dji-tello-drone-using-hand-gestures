@@ -1,5 +1,7 @@
 # Hand Gesture Control for DJI Tello Drone
 
+![Alt Text](https://github.com/Sousannah/moving-dji-tello-drone-using-hand-gestures/blob/main/Screenshot%202024-02-17%20184927.png)
+
 ## Overview
 This repository provides a demonstration of controlling a DJI Tello drone in the AirSim environment using hand gestures detected via the MediaPipe library. By utilizing computer vision techniques, the code interprets hand movements captured by the webcam to command the drone to perform specific actions.
 
